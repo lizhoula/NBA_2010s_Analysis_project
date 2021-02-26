@@ -1,0 +1,31 @@
+TeamID,Tm,City,Name,Conference,Division,PrimaryColor,SecondaryColor,TertiaryColor,QuaternaryColor
+1,WAS,Washington,Wizards,Eastern,Southeast,002B5C,E31837,C4CED4,FFFFFF
+2,CHA,Charlotte,Hornets,Eastern,Southeast,1D1160,00788C,A1A1A4,7AB2DD
+3,ATL,Atlanta,Hawks,Eastern,Southeast,C8102E,FDB927,000000,9EA2A2
+4,MIA,Miami,Heat,Eastern,Southeast,000000,98002E,F9A01B,
+5,ORL,Orlando,Magic,Eastern,Southeast,0077C0,000000,C4CED4,
+6,NY,New York,Knicks,Eastern,Atlantic,006BB6,F58426,BEC0C2,000000
+7,PHI,Philadelphia,76ers,Eastern,Atlantic,006BB6,ED174C,002B5C,C4CED4
+8,BKN,Brooklyn,Nets,Eastern,Atlantic,000000,FFFFFF,707271,
+9,BOS,Boston,Celtics,Eastern,Atlantic,008348,BB9753,000000,FFFFFF
+10,TOR,Toronto,Raptors,Eastern,Atlantic,CE1141,000000,A1A1A4,B4975A
+11,CHI,Chicago,Bulls,Eastern,Central,CE1141,000000,,
+12,CLE,Cleveland,Cavaliers,Eastern,Central,6F263D,FDB81C,041E42,000000
+13,IND,Indiana,Pacers,Eastern,Central,002D62,FDBB30,BEC0C2,
+14,DET,Detroit,Pistons,Eastern,Central,1D428A,C8102E,BEC0C2,002D62
+15,MIL,Milwaukee,Bucks,Eastern,Central,00471B,EEE1C6,0077C0,000000
+16,MIN,Minnesota,Timberwolves,Western,Northwest,0C2340,78BE20,236192,9EA2A2
+17,UTA,Utah,Jazz,Western,Northwest,002B5C,F9A01B,00471B,
+18,OKC,Oklahoma City,Thunder,Western,Northwest,007AC1,EF3B24,FDBB30,002D62
+19,POR,Portland,Trail Blazers,Western,Northwest,E03A3E,000000,FFFFFF,
+20,DEN,Denver,Nuggets,Western,Northwest,0E2240,FEC524,8B2131,244289
+21,MEM,Memphis,Grizzlies,Western,Southwest,5D76A9,12173F,707271,F5B112
+22,HOU,Houston,Rockets,Western,Southwest,CE1141,000000,9EA2A2,373A36
+23,NO,New Orleans,Pelicans,Western,Southwest,002B5C,B4975A,E31837,
+24,SA,San Antonio,Spurs,Western,Southwest,000000,C4CED4,,
+25,DAL,Dallas,Mavericks,Western,Southwest,0064B1,00285E,BBC4CA,000000
+26,GS,Golden State,Warriors,Western,Pacific,1D428A,FDB927,,
+27,LAL,Los Angeles,Lakers,Western,Pacific,552583,FDB927,000000,
+28,LAC,Los Angeles,Clippers,Western,Pacific,C8102E,1D428A,000000,BEC0C2
+29,PHO,Phoenix,Suns,Western,Pacific,1D1160,E56020,000000,63727A
+30,SAC,Sacramento,Kings,Western,Pacific,5A2B81,63727A,000000,
